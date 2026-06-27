@@ -1,0 +1,6 @@
+{
+  "name": "Planificador Epidemias PS",
+  "description": "Una aplicación interactiva para modelar brotes epidémicos y planificar la capacidad hospitalaria utilizando los métodos numéricos de Euler y Runge-Kutta de 4to Orden (RK4). Resuelve un problema de salud pública y gobierno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
